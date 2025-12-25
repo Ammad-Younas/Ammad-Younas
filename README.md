@@ -1,12 +1,27 @@
 # 💫 About Me:
-👋 Hi, I am @Ammad-Younas.<br>👀 I am interested in App development,<br>Ethical hacking.<br>🌱 I am currently studying (BSCS).
-
+👋 Hi, I am @Ammad-Younas.<br>
+👀 I am interested in App Development and Ethical Hacking.<br>
+🌱 I am currently studying (BSCS) and actively learning Native Android Development.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ammad.younas.000) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammad-younas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ammad_younas_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19278053)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ammad.younas.92) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammad-younas) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammad.younas.92)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-346AC1?style=plastic&logo=android-studio&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=plastic&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-000000?style=plastic&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-6DB33F?style=plastic&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=plastic)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+
+### 🐍 Backend & Automation
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
