@@ -15,12 +15,14 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-346AC1?style=plastic&logo=android-studio&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=plastic&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-000000?style=plastic&logo=android&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=plastic&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room%20DB-6DB33F?style=plastic&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=plastic)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
 ### Backend & Automation
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=plastic&logo=ktor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 ### Random Dev Quote
