@@ -1,4 +1,6 @@
-<h1 align="center"><b>Muhammad Ammad Younas</b></h1>
+<p align="center">
+  <font size="40"><b>Muhammad Ammad Younas</b></font>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Android+Developer;Security+Researcher;Backend+Enthusiast" alt="Typing Effect" />
