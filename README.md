@@ -1,10 +1,8 @@
-# Ammad Younas
+<h1 align="center">Muhammad Ammad Younas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Android+Developer;Security+Researcher;Backend+Enthusiast" alt="Typing Effect" />
 </p>
-
----
 
 ## About Me
 * **Education:** Computer Science Graduate (BSCS).
@@ -23,8 +21,8 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### Architecture and Databases
-![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=android&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111111?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-23272A?style=for-the-badge&logo=android&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4A154B?style=for-the-badge)
 ![Room DB](https://img.shields.io/badge/Room%20DB-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
@@ -38,8 +36,8 @@
 
 ## GitHub Analytics
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ammad-Younas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Younas&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
