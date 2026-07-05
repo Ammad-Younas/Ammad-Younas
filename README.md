@@ -1,4 +1,6 @@
-<h1 align="center">Muhammad Ammad Younas</h1>
+<p align="center">
+  <b style="font-size: 2.5em;">Muhammad Ammad Younas</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Android+Developer;Security+Researcher;Backend+Enthusiast" alt="Typing Effect" />
@@ -9,8 +11,6 @@
 * **Focus:** Specialized in crafting high-performance, architecture-driven Native Android Applications.
 * **Interests:** Cybersecurity, Red Teaming, and building secure software solutions.
 * **Current Focus:** Building scalable backend solutions with Ktor and expanding mobile security knowledge.
-
----
 
 ## Tech Stack and Ecosystem
 
@@ -32,15 +32,12 @@
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## GitHub Analytics
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ammad-Younas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Younas&layout=compact&theme=radical&langs_count=6" />
 </p>
-
----
 
 ## Connect with Me
 <p align="left">
@@ -55,6 +52,7 @@
   </a>
 </p>
 
+## Daily Developer Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
