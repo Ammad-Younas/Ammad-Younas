@@ -19,7 +19,7 @@
 
 ### Architecture and Databases
 ![MVVM](https://img.shields.io/badge/MVVM-23272A?style=for-the-badge&logo=android&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4A154B?style=for-the-badge&logo=architecture&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4A154B?style=for-the-badge&logo=android&logoColor=white)
 ![Room DB](https://img.shields.io/badge/Room%20DB-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
