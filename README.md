@@ -1,6 +1,4 @@
-<p align="center">
-  <b style="font-size: 2.5em;">Muhammad Ammad Younas</b>
-</p>
+<h1 align="center"><b>Muhammad Ammad Younas</b></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Android+Developer;Security+Researcher;Backend+Enthusiast" alt="Typing Effect" />
@@ -32,11 +30,9 @@
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## GitHub Analytics
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ammad-Younas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Younas&layout=compact&theme=radical&langs_count=6" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Younas&theme=github-dark" width="100%" />
 </p>
 
 ## Connect with Me
