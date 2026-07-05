@@ -1,29 +1,62 @@
-# About Me:
-▪ **Hi, I am @Ammad-Younas.**  
-▪ **I am interested in App Development and Ethical Hacking.**  
-▪ **I am currently studying (BSCS) and actively learning Native Android Development.**
+# Ammad Younas
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ammad.younas.92) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammad-younas) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammad.younas.92)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Android+Developer;Security+Researcher;Backend+Enthusiast" alt="Typing Effect" />
+</p>
 
-# Tech Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-346AC1?style=plastic&logo=android-studio&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=plastic&logo=android&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-000000?style=plastic&logo=android&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=plastic&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room%20DB-6DB33F?style=plastic&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=plastic)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+---
 
-### Backend & Automation
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=plastic&logo=ktor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+## About Me
+* **Education:** Computer Science Graduate (BSCS).
+* **Focus:** Specialized in crafting high-performance, architecture-driven Native Android Applications.
+* **Interests:** Cybersecurity, Red Teaming, and building secure software solutions.
+* **Current Focus:** Building scalable backend solutions with Ktor and expanding mobile security knowledge.
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## Tech Stack and Ecosystem
+
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+### Architecture and Databases
+![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=android&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111111?style=for-the-badge)
+![Room DB](https://img.shields.io/badge/Room%20DB-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Backend, Automation and Dev Tools
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Analytics
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=6" />
+</p>
+
+---
+
+## Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ammad-younas" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://facebook.com/ammad.younas.92" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/ammad.younas.92" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
